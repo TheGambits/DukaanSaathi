@@ -6,8 +6,6 @@ Dukaan Saathi is a simple, voice-first shop management application designed for 
 
 The project focuses on simple Hindi/Hinglish interactions, clear financial information, and a workflow that works well on both mobile phones and desktop computers.
 
-> **Project status:** Hackathon MVP / active development. Check the current application build for the exact availability of each feature. Supabase is intended for user authentication. Business records remain in the app's local storage unless cloud data synchronization is separately implemented.
-
 ---
 
 ## Contents
